@@ -14,9 +14,9 @@ My name is Alberto and I'm a Data Engineer with a Bachelor's in Physics and a Ma
 - Docker
 - Airflow
 <!-- ### 📈 Projects--> 
-<Check out some of my recent data science projects:> 
+<!-- Check out some of my recent data science projects:--> 
 
-<- Project 1: description of project 1> 
+<!-- - Project 1: description of project 1--> 
 ### 🎓 Education
 - M.Sc. in Computer Science, Tecnológico de Monterrey (2021-2022)
 - B.Sc. in Physics, Universidad de Guadalajara (2015-2019)
