@@ -13,7 +13,7 @@ My name is Alberto and I'm a Data Engineer with a Bachelor's in Physics and a Ma
 - Scikit-learn
 - Docker
 - Airflow
-<### 📈 Projects> 
+<!-- ### 📈 Projects--> 
 <Check out some of my recent data science projects:> 
 
 <- Project 1: description of project 1> 
