@@ -13,12 +13,12 @@ My name is Alberto and I'm a Data Engineer with a Bachelor's in Physics and a Ma
 - Scikit-learn
 - Docker
 - Airflow
-[comment]: <> ### 📈 Projects
-[comment]: <> Check out some of my recent data science projects:
+[comment]: <> (### 📈 Projects)
+[comment]: <> (Check out some of my recent data science projects:)
 
-[comment]: <> - Project 1: description of project 1
-[comment]: <> - Project 2: description of project 2
-[comment]: <> - Project 3: description of project 3
+[comment]: <> (- Project 1: description of project 1)
+[comment]: <> (- Project 2: description of project 2)
+[comment]: <> (- Project 3: description of project 3)
 ### 🎓 Education
 - M.Sc. in Computer Science, Tecnológico de Monterrey (2021-2022)
 - B.Sc. in Physics, Universidad de Guadalajara (2015-2019)
