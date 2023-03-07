@@ -1,5 +1,5 @@
 ## 👋 Hello there!
-My name is Alberto and I'm a Data Engineer with a Bachelor's in Physics and a Master of Science in Computer Science. 👨‍🎓
+My name is Alberto and I'm a Data Engineer with a Bachelor's in Physics and a Master's in Computer Science. 👨‍🎓
 
 ### 💻 About me
 - 🔭 I’m currently working on building data pipelines and infrastructure for a large-scale data processing system.
@@ -22,9 +22,9 @@ My name is Alberto and I'm a Data Engineer with a Bachelor's in Physics and a Ma
 - B.Sc. in Physics, Universidad de Guadalajara (2015-2019)
 
 ### 🌟 Interests
--Machine learning and deep learning models
--Data visualization and storytelling
--Science fiction and fantasy novels
--Music and Guitar
+- Machine learning and deep learning models
+- Data visualization and storytelling
+- Science fiction and fantasy novels
+- Music and Guitar
 
 Thanks for stopping by! Feel free to reach out if you have any questions or just want to connect. 👋
